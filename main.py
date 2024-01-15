@@ -172,8 +172,8 @@ def main(): # done
     user_status = admin
     changing_user = True
 
-    while True:
-
+    while True: # ai section tai ratin vai code theke help niye sajaisi.. hossilo na first e
+ 
         if user_status == None: # done
             print("No user detected")
 
